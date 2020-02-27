@@ -1,0 +1,6 @@
+.idea
+modules/contrib/
+themes/contrib/
+vendor/
+node_modules
+files/
