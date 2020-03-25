@@ -4,3 +4,4 @@ themes/contrib/
 vendor/
 node_modules
 files/
+settings.php
